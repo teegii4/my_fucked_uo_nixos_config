@@ -25,13 +25,11 @@ plaease help me idk how computers work
 Things i want to do:
   - ~~get the NVIDIA GeForce GTX 650 working~~
     - nevermind apperently it's too old for the linux drivers to care about
-  - wacom tablet set to only one of my monitors instead of across both
-    -   > xsetwacom set 'Wacom Intuos PT S 2 Pen stylus' MapToOutput next
-      - used to work but now it keeps saying xset wacom doesn't exist :-(
+  - ~~wacom tablet set to only one of my monitors instead of across both~~
+    -   ~~> xsetwacom set 'Wacom Intuos PT S 2 Pen stylus' MapToOutput next~~
+      - ~~used to work but now it keeps saying xset wacom doesn't exist :-(~~
+    - my tablet just maps to the monitor my mouse is in, so uhhh, problem solved??
   - ~~lutris and steam~~ idk it just works now
   - How do i use git?
   - what are flakes?
     - do i really need em?
-
-I JUST NOTICED WHILE TYPING THIS IT"S JUST ALREADY SET TO ONLY THE MONITOR I WANT???
-well anyways still useful to have the option to swap monitors
